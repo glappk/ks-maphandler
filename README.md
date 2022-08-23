@@ -23,6 +23,4 @@ Known issues:
 *Windows profile names containeng special characters or non English letters - The program wont be able to find your ks/bundle folder.
 *Prompts that its from an unknown publisher when running the program.
 
-Changelog
-2022-05-10 // V.0.0.2
-*Renaming of selected map.
+DL of the program can be found under releases --->
